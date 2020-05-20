@@ -1,0 +1,50 @@
+// functions i need to use:
+
+     // initGame() - install on body with "onload" and load the nessery funtions
+     
+
+     // buildBoard() -  build the board 
+     //                 set mines at random locations.
+     //                 also actived setMinesNegsCount() 
+     //                 return to board
+
+
+
+     // setMinesNegsCount(board) - Count the mines around each cell
+     //                            Set the cell text with the minesAroundCount.   
+     //                            Get details from board
+
+
+
+    // renderBoard(board) -  Render the board as a <table> to the page 
+    //                       Get details from board
+    //                       
+
+
+    // cellClicked(elCell, i, j)  - Use cell element and his i and j
+    //                              Called when a cell (td) is clicked 
+
+
+
+    // cellMarked(elCell) -  using cell element
+    //                       Called on right click to mark a cell (suspected to be a mine)
+    //                       Search the web (and implement)
+    //                       onContextMenu event, and return false in the event handler.
+    //                       how to hide the context menu on right click
+
+
+
+    // checkGameOver()   - Game ends when all mines are marked, 
+    //                     and all the other cells are shown 
+
+
+
+
+    // expandShown(board, elCell, i, j) - using board with cell element with is i & j
+    //                                    after clicks on cell with no mine around
+    //                                    cell is open and also his neighbors(square around him)
+    //                                    BONUS: incase his neighbors are empty too open them also
+
+
+
+    

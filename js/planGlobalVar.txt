@@ -1,0 +1,52 @@
+// var gBoard = {              A Matrix containing cell objects: Each cell:
+//    minesAroundCount: 4,
+//    isShown: true, 
+//    isMine: false,
+//    isMarked: true     }
+
+// exampales kinds to cell: 
+
+            //  var gBoard = {        empty cell
+            //    minesAroundCount: ?,
+            //    isShown: true, 
+            //    isMine: false,
+            //    isMarked: false     }
+
+
+              //  var gBoard = {         cell with mine
+              //    minesAroundCount: ?,
+              //    isShown: false, 
+              //    isMine: true,
+              //    isMarked: true     }
+
+
+// gLevel =   Beginner
+// {     SIZE: 4,     MINES: 2 };   
+
+ 
+       // gLevel =   Medium
+       // {     SIZE: 8,     MINES: 12 }; 
+
+              // gLevel =   Expert
+              // {     SIZE: 12,     MINES: 30 };
+
+
+
+
+
+
+//  gGame = {
+//    isOn: false,     // isOn: Boolean, when true we let the user play 
+//    shownCount: 0,   // shownCount: How many cells are shown 
+//    markedCount: 0,  // markedCount: How many cells are marked (with a flag) 
+//    secsPassed: 0 }  // secsPassed: How many seconds passed 
+
+
+
+
+ 
+
+
+
+
+                      

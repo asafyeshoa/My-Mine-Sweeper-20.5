@@ -1,0 +1,30 @@
+// first click actived the timer  (left and right)
+                         // left click reveals the cell content
+                         // right click flag or unflag(you cannot reveal flagged cell)
+
+
+
+// game end have 2 options: 
+//                      lose: when clicking a mine, and all mines should be revealed
+//                      Win: all the mines are flagged and aall the other cells are shown
+// 
+
+
+// game have 3 levels:
+                      // Beginner (4*4 With 2 MINES)
+                      // Medium (8*8  with 12 MINES)
+                      // Expert (12 * 12 with 30 MINES)
+
+
+// expanding: after left click on cell thre 3 options:
+     // Mine - reveal all mines and finish the game (also color the clicked mine in red)
+     // cell with neighbors - reveal the cell alone
+     // cell without neighbors - explore all the cells around him 1 step each side 
+     // noted that if cell have empty cells around him there neighbors will explore too
+
+
+
+
+
+
+

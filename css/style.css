@@ -1,0 +1,9 @@
+body {
+   /* background-image: url("images/background.png"); */
+    background-color: #B8860B !important;
+    text-align: center;
+   }
+  .board-container {
+   display: flex;
+   justify-content: center;
+}
